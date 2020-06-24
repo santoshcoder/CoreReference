@@ -1,0 +1,2 @@
+# CoreReference
+Sample Project
